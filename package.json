@@ -6,7 +6,7 @@
     "license": "ISC",
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/Adeptus-Astartes/package-test.git"
+      "url": "git+https://github.com/adeptus-astartes/package-test.git"
     },
     "publishConfig": {
       "registry": "https://npm.pkg.github.com/@adeptus-astartes"
