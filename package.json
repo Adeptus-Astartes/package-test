@@ -1,5 +1,5 @@
 {
-    "name": "package-test",
+    "name": "@adeptus-astartes/package-test",
     "version": "1.0.0",
     "description": "Test package",
     "author": "Vadim Tihonyuk",
